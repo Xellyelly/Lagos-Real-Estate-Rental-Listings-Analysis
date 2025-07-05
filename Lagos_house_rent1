@@ -1,0 +1,332 @@
+Price,period,Bedrooms,type,Purpose,Description,Location,Yearly_price,log_price
+1400000,per annum,others,apartment & flat,Rent,"Mini Flat in Opposite Sangotedo, Ajah for rent",Ajah,1400000,14.151983508870947
+2000000,per annum,2,apartment & flat,Rent,"Furnished 2bdrm Block of Flats in Crown Estate, Berger for rent",Ojodu,2000000,14.508658238524095
+1500000,per annum,others,apartment & flat,Rent,Furnished Mini Flat in Ojodu for rent,Ojodu,1500000,14.220976332738882
+850000,per month,others,apartment & flat,Rent,"Furnished Studio Apartment in Trasit Village, Victoria Island for rent",Victoria Island,10200000,16.13789837629371
+2800000,per annum,others,apartment & flat,Rent,Studio Apartment in Ikota Villa for rent,Lekki,2800000,14.845130332288226
+8000000,per annum,4,townhouse,Rent,4bdrm Townhouse / Terrace in Ikota for rent,Lekki,8000000,15.894952224644102
+12000000,per annum,4,duplex,Rent,4bdrm Duplex in Vgc for rent,Ajah,12000000,16.300417291085605
+25000000,per annum,3,apartment & flat,Rent,3bdrm Apartment in Old Ikoyi for rent,Ikoyi,25000000,17.034386422832473
+15000000,per annum,4,duplex,Rent,4bdrm Duplex in Ikate-Elegushi for rent,Lekki,15000000,16.52356082573315
+14000000,per annum,4,duplex,Rent,4bdrm Duplex in VGC / Ajah for rent,Ajah,14000000,16.454567959008102
+7000000,per annum,2,apartment & flat,Rent,"2bdrm Apartment in Illasan, Lekki for rent",Lekki,7000000,15.76142084987672
+5000000,per annum,3,townhouse,Rent,3bdrm Townhouse / Terrace in Ogombo for rent,Ajah,5000000,15.424948670398354
+8000000,per annum,4,duplex,Rent,4bdrm Duplex in Ajah for rent,Ajah,8000000,15.894952224644102
+8000000,per annum,4,duplex,Rent,"4bdrm Duplex in Chevron, Lekki for rent",Lekki,8000000,15.894952224644102
+60000000,per annum,5,duplex,Rent,5bdrm Duplex in Ikoyi for rent,Ikoyi,60000000,17.909855136853043
+60000000,per annum,4,townhouse,Rent,4bdrm Townhouse / Terrace in Ikoyi for rent,Ikoyi,60000000,17.909855136853043
+10000000,per annum,4,duplex,Rent,"4bdrm Duplex in Orchid Road, Lekki Expressway for rent",Lekki,10000000,16.118095750958314
+14000000,per annum,4,duplex,Rent,4bdrm Duplex in Vgc for rent,Ajah,14000000,16.454567959008102
+30000000,per annum,4,duplex,Rent,4bdrm Duplex in Lekki Phase 1 for rent,Lekki,30000000,17.216707972959764
+1300000,per annum,others,apartment & flat,Rent,Mini Flat in Ikota for rent,Lekki,1300000,14.077875591662238
+800000,per annum,others,apartment & flat,Rent,Mini Flat in Berger for rent,Ojodu,800000,13.592368256649284
+4000000,per annum,2,apartment & flat,Rent,2bdrm Apartment in Peninsula Estate for rent,Ajah,4000000,15.201805169084134
+2200000,per annum,1,apartment & flat,Rent,"1bdrm Shared Apartment in Conservation Court, Chevron for rent",Lekki,2200000,14.603968372873895
+2500000,per annum,1,apartment & flat,Rent,"1bdrm Shared Apartment in Chevyview, Chevron for rent",Lekki,2500000,14.731801689838349
+15000000,per annum,4,duplex,Rent,Furnished 4bdrm Duplex in Magodo Gra Shangisha for rent,Magodo,15000000,16.52356082573315
+120000000,per annum,5,duplex,Rent,5bdrm Duplex in Ikoyi Banana Island for rent,Ikoyi,120000000,18.603002309079653
+100000000,per annum,6,duplex,Rent,6bdrm Duplex in Banana Island Ikoyi for rent,Ikoyi,100000000,18.420680753952364
+1700000,per annum,1,apartment & flat,Rent,"1bdrm Shared Apartment in Ocean Bay Ocean, Lekki for rent",Lekki,1700000,14.346139397261565
+6500000,per annum,4,duplex,Rent,4bdrm Duplex in Orchid Lekki Lagos for rent,Lekki,6500000,15.687312888712007
+90000000,per annum,4,apartment & flat,Rent,4bdrm Apartment in Old Ikoyi Lagos for rent,Ikoyi,90000000,18.31532023940565
+8000000,per annum,2,apartment & flat,Rent,"Furnished 2bdrm Apartment in Horizon 2, Ikate for rent",Lekki,8000000,15.894952224644102
+140000000,per annum,3,apartment & flat,Rent,3bdrm Apartment in Ikoyi Lagos for rent,Ikoyi,140000000,18.757152987716434
+9000000,per annum,2,apartment & flat,Rent,2bdrm Apartment in Lekki Phase 1 for rent,Lekki,9000000,16.012735246411598
+6000000,per annum,others,apartment & flat,Rent,Furnished Studio Apartment in Ologolo for rent,Lekki,6000000,15.607270193858982
+15000000,per annum,3,apartment & flat,Rent,3bdrm Apartment in Victoria Island Extension for rent,Victoria Island,15000000,16.52356082573315
+12000000,per annum,4,duplex,Rent,4bdrm Duplex in Lekki Phase 2 for rent,Lekki,12000000,16.300417291085605
+6500000,per annum,4,townhouse,Rent,4bdrm Townhouse / Terrace in Ikota for rent,Lekki,6500000,15.687312888712007
+8000000,per annum,4,duplex,Rent,4bdrm Duplex in Ologolo for rent,Lekki,8000000,15.894952224644102
+6500000,per annum,others,apartment & flat,Rent,Furnished Mini Flat in Lekki Phase 1 for rent,Lekki,6500000,15.687312888712007
+10000000,per annum,3,townhouse,Rent,"3bdrm Townhouse / Terrace in Spring Bay Estate,, Ikate for rent",Lekki,10000000,16.118095750958314
+2000000,per annum,1,apartment & flat,Rent,"1bdrm Shared Apartment in Ocean Bay Estate., Lekki for rent",Lekki,2000000,14.508658238524095
+9000000,per annum,2,apartment & flat,Rent,"2bdrm Block of Flats in Tunde Joda, Lekki Phase 1 for rent",Lekki,9000000,16.012735246411598
+35000000,per annum,3,apartment & flat,Rent,"3bdrm Apartment in Oroke Drive, Ikoyi for rent",Ikoyi,35000000,17.370858648025116
+15000000,per annum,5,duplex,Rent,5bdrm Duplex in Chevron for rent,Lekki,15000000,16.52356082573315
+2500000,per annum,1,apartment & flat,Rent,"Furnished 1bdrm Apartment in Royal Pine Gate 3,, Lekki Phase 2 for rent",Lekki,2500000,14.731801689838349
+35000000,per annum,4,duplex,Rent,4bdrm Duplex in Lekki Phase 1 for rent,Lekki,35000000,17.370858648025116
+324000000,per annum,5,duplex,Rent,5bdrm Duplex in Banana Island Ikoyi for rent,Ikoyi,324000000,19.596254076843024
+12000000,per annum,5,duplex,Rent,5bdrm Duplex in Ologolo Lekki Lagos for rent,Lekki,12000000,16.300417291085605
+8500000,per annum,5,duplex,Rent,5bdrm Duplex in Lekki for rent,Lekki,8500000,15.955576839107596
+15000000,per annum,4,townhouse,Rent,4bdrm Townhouse / Terrace in Lekki Phase 1 for rent,Lekki,15000000,16.52356082573315
+25000000,per annum,3,apartment & flat,Rent,3bdrm Apartment in Banana Island for rent,Ikoyi,25000000,17.034386422832473
+40000000,per annum,5,duplex,Rent,"5bdrm Duplex in Ogbunike Street, Lekki Phase 1 for rent",Lekki,40000000,17.50439003707821
+9000000,per annum,4,duplex,Rent,4bdrm Duplex in Ikota for rent,Lekki,9000000,16.012735246411598
+13000000,per annum,4,duplex,Rent,4bdrm Duplex in Jakande Lagos for rent,Lekki,13000000,16.380459992348886
+16000000,per annum,4,townhouse,Rent,4bdrm Townhouse / Terrace in Ikate for rent,Lekki,16000000,16.588099342704055
+14000000,per annum,3,apartment & flat,Rent,3bdrm Apartment in Lekki Phase 1 Lagos for rent,Lekki,14000000,16.454567959008102
+100000000,lifetime,16,apartment & flat,Sale,"16bdrm Block of Flats in Nobex, Alimosho for sale",Alimosho,100000000,18.420680753952364
+18000000,per annum,4,duplex,Rent,"Furnished 4bdrm Duplex in Gbangbala Street, Ikate for rent",Lekki,18000000,16.705882371415992
+26000000,per annum,3,apartment & flat,Rent,Furnished 3bdrm Apartment in Old Ikoyi for rent,Ikoyi,26000000,17.073607134447293
+2500000,per annum,1,apartment & flat,Rent,1bdrm Shared Apartment in Ologolo for rent,Lekki,2500000,14.731801689838349
+7000000,per annum,4,duplex,Rent,4bdrm Duplex in Orchid Lekki Lagos for rent,Lekki,7000000,15.76142084987672
+10000000,per annum,4,duplex,Rent,"4bdrm Duplex in Oral Estate., Lekki for rent",Lekki,10000000,16.118095750958314
+25000000,per annum,4,duplex,Rent,Furnished 4bdrm Duplex in Ikate Lekki Lagos for rent,Lekki,25000000,17.034386422832473
+20000000,per annum,4,duplex,Rent,4bdrm Duplex in Osborne Foreshore Estate for rent,Ikoyi,20000000,16.811242881518265
+35000000,per annum,6,duplex,Rent,6bdrm Duplex in Lekki Phase 1 for rent,Lekki,35000000,17.370858648025116
+3000000,per annum,1,apartment & flat,Rent,1bdrm Shared Apartment in Ologolo for rent,Lekki,3000000,14.914123179965662
+35000000,per annum,3,apartment & flat,Rent,Furnished 3bdrm Apartment in Old Ikoyi for rent,Ikoyi,35000000,17.370858648025116
+35000000,per annum,4,Penthouse,Rent,"4bdrm Penthouse in Mobolaji Johnson, Old Ikoyi for rent",Ikoyi,35000000,17.370858648025116
+8000000,per annum,3,duplex,Rent,3bdrm Duplex in Ikota Gra Lekki for rent,Lekki,8000000,15.894952224644102
+30000000,per annum,3,apartment & flat,Rent,Furnished 3bdrm Apartment in Lekki Phase 1 for rent,Lekki,30000000,17.216707972959764
+3500000,per annum,1,apartment & flat,Rent,1bdrm Apartment in Lekki for rent,Lekki,3500000,15.068273812173887
+28000000,per annum,4,duplex,Rent,4bdrm Duplex in Lekki Phase 1 for rent,Lekki,28000000,17.147715103853763
+12000000,per annum,2,apartment & flat,Rent,Furnished 2bdrm Apartment in Ikate Lekki Lagos for rent,Lekki,12000000,16.300417291085605
+8000000,per annum,4,duplex,Rent,4bdrm Duplex in Lekki Lagos for rent,Lekki,8000000,15.894952224644102
+8000000,per annum,4,duplex,Rent,4bdrm Duplex in Ikota Gra Lekki for rent,Lekki,8000000,15.894952224644102
+20000000,per annum,4,apartment & flat,Rent,Furnished 4bdrm Apartment in Victoria Island Extension for rent,Victoria Island,20000000,16.811242881518265
+2200000,per annum,1,apartment & flat,Rent,"1bdrm Shared Apartment in Ocean Bay Estate., Lekki for rent",Lekki,2200000,14.603968372873895
+8000000,per annum,4,duplex,Rent,Furnished 4bdrm Duplex in Lekki for rent,Lekki,8000000,15.894952224644102
+300000000,lifetime,2,apartment & flat,Sale,Furnished 2bdrm Block of Flats in Agility Estate Mile for sale,Kosofe,300000000,19.519293035953808
+15000000,per annum,2,apartment & flat,Rent,Furnished 2bdrm Apartment in Freedom Way Lekki for rent,Lekki,15000000,16.52356082573315
+40000000,per annum,3,maisonette,Rent,3bdrm Maisonette in Ikoyi for rent,Ikoyi,40000000,17.50439003707821
+35000000,per annum,4,apartment & flat,Rent,4bdrm Apartment in Ikoyi for rent,Ikoyi,35000000,17.370858648025116
+12000000,per annum,4,townhouse,Rent,4bdrm Townhouse / Terrace in Adeniyi Jones for rent,Ikeja,12000000,16.300417291085605
+7500000,per annum,2,apartment & flat,Rent,2bdrm Apartment in Ikate for rent,Lekki,7500000,15.830413711839864
+14000000,per annum,3,apartment & flat,Rent,"3bdrm Apartment in Off Admiralty, Lekki Phase 1 for rent",Lekki,14000000,16.454567959008102
+5500000,per annum,4,apartment & flat,Rent,"4bdrm Apartment in Chevron, Lekki for rent",Lekki,5500000,15.520258832020865
+1500000,per annum,others,apartment & flat,Rent,"Studio Apartment in Paradise Estate, Ikota for rent",Lekki,1500000,14.220976332738882
+2500000,per annum,4,apartment & flat,Rent,"4bdrm Apartment in Unity Estate, Ado / Ajah for rent",Ajah,2500000,14.731801689838349
+6000000,per annum,3,duplex,Rent,3bdrm Duplex in Osapa London for rent,Lekki,6000000,15.607270193858982
+1800000,per annum,others,apartment & flat,Rent,Studio Apartment in Orchild Road Chevron for rent,Lekki,1800000,14.403297778421795
+10000000,per annum,4,duplex,Rent,"Furnished 4bdrm Duplex in Orchild Road, Chevron for rent",Lekki,10000000,16.118095750958314
+12000000,per annum,2,duplex,Rent,"Furnished 2bdrm Duplex in Salem, Ikate for rent",Lekki,12000000,16.300417291085605
+8500000,per annum,4,duplex,Rent,4bdrm Duplex in Chevron Estate for rent,Lekki,8500000,15.955576839107596
+7500000,per annum,4,duplex,Rent,4bdrm Duplex in Ologolo for rent,Lekki,7500000,15.830413711839864
+42000000,per annum,3,apartment & flat,Rent,3bdrm Apartment in Ologolo for rent,Lekki,42000000,17.553180200057167
+14000000,per annum,3,apartment & flat,Rent,3bdrm Apartment in Lekki Phase1 for rent,Lekki,14000000,16.454567959008102
+15000000,per annum,4,duplex,Rent,4bdrm Duplex in Lekki for rent,Lekki,15000000,16.52356082573315
+2200000,per annum,2,apartment & flat,Rent,"2bdrm Apartment in Greenville, Badore for rent",Ibeju,2200000,14.603968372873895
+2800000,per annum,others,apartment & flat,Rent,"Studio Apartment in Blue Scourt, Ikota for rent",Lekki,2800000,14.845130332288226
+3000000,per annum,others,apartment & flat,Rent,Mini Flat in Chevron for rent,Lekki,3000000,14.914123179965662
+4000000,per annum,1,apartment & flat,Rent,"1bdrm Apartment in Harris Drive, Lekki for rent",Lekki,4000000,15.201805169084134
+10000000,per annum,4,duplex,Rent,"4bdrm Duplex in Royal Pine, Chevron for rent",Lekki,10000000,16.118095750958314
+8000000,per annum,2,apartment & flat,Rent,2bdrm Apartment in Ikate for rent,Lekki,8000000,15.894952224644102
+30000000,per annum,4,duplex,Rent,"4bdrm Duplex in Admiralty, Lekki Phase 1 for rent",Lekki,30000000,17.216707972959764
+15000000,per annum,3,apartment & flat,Rent,3bdrm Apartment in Lekki Phase1 for rent,Lekki,15000000,16.52356082573315
+2000000,per annum,others,apartment & flat,Rent,"Studio Apartment in Orchid Road, Lekki for rent",Lekki,2000000,14.508658238524095
+8000000,per annum,4,maisonette,Rent,"Furnished 4bdrm Maisonette in Chevron, Lekki for rent",Lekki,8000000,15.894952224644102
+8500000,per annum,4,duplex,Rent,4bdrm Duplex in Chevron for rent,Lekki,8500000,15.955576839107596
+4000000,per annum,others,apartment & flat,Rent,"Mini Flat in Haris Drive, Lekki for rent",Lekki,4000000,15.201805169084134
+2400000,per annum,others,apartment & flat,Rent,Studio Apartment in Osapa London for rent,Lekki,2400000,14.690979711984754
+15000000,per annum,5,duplex,Rent,"5bdrm Duplex in Ikate, Lekki for rent",Lekki,15000000,16.52356082573315
+5000000,per annum,4,duplex,Rent,4bdrm Duplex in Unity Estate for rent,Ojodu,5000000,15.424948670398354
+25000000,per annum,2,others,Rent,Furnished 2bdrm Condo in Lekki Please1 for rent,Lekki,25000000,17.034386422832473
+7000000,per annum,3,apartment & flat,Rent,"3bdrm Apartment in Osapa London, Lekki for rent",Lekki,7000000,15.76142084987672
+25000000,per annum,3,apartment & flat,Rent,3bdrm Apartment in Victoria Island for rent,Victoria Island,25000000,17.034386422832473
+5500000,per annum,4,duplex,Rent,"Furnished 4bdrm Duplex in Greenville, Badore for rent",Ibeju,5500000,15.520258832020865
+25000000,per annum,6,duplex,Rent,Furnished 6bdrm Duplex in Lekki Phase1 for rent,Lekki,25000000,17.034386422832473
+600000000,per annum,4,duplex,Rent,4bdrm Duplex in Lekki Phase 1 for rent,Lekki,600000000,20.21244021484709
+4000000,per annum,others,apartment & flat,Rent,"Mini Flat in Orchild, Ikota for rent",Lekki,4000000,15.201805169084134
+10000000,per annum,2,apartment & flat,Rent,"Furnished 2bdrm Apartment in Westend Estate, Ikota for rent",Lekki,10000000,16.118095750958314
+6000000,per annum,3,apartment & flat,Rent,"3bdrm Apartment in Ikate, Chevron for rent",Lekki,6000000,15.607270193858982
+2500000,per annum,others,apartment & flat,Rent,"Studio Apartment in Paradise3, Chevron for rent",Lekki,2500000,14.731801689838349
+2500000,per annum,others,apartment & flat,Rent,Studio Apartment in Chevron Drive for rent,Lekki,2500000,14.731801689838349
+7000000,per annum,4,duplex,Rent,"4bdrm Duplex in Harris Drive, Lekki for rent",Lekki,7000000,15.76142084987672
+4000000,per annum,others,apartment & flat,Rent,"Mini Flat in Westend Estate, Chevron for rent",Lekki,4000000,15.201805169084134
+3500000,per annum,others,apartment & flat,Rent,Studio Apartment in Chevron for rent,Lekki,3500000,15.068273812173887
+850000,per annum,1,apartment & flat,Rent,"1bdrm Apartment in Greenville Estate, Ajah for rent",Ajah,850000,13.652992804936396
+10000000,per annum,3,duplex,Rent,"3bdrm Duplex in Admiralty, Lekki for rent",Lekki,10000000,16.118095750958314
+3400000,per annum,others,apartment & flat,Rent,Studio Apartment in Chevron for rent,Lekki,3400000,15.039286283703994
+15000000,per annum,4,duplex,Rent,"4bdrm Duplex in Freedom Way, Lekki Phase 1 for rent",Lekki,15000000,16.52356082573315
+2200000,per annum,1,apartment & flat,Rent,"1bdrm Apartment in Chevy View, Chevron for rent",Lekki,2200000,14.603968372873895
+13000000,per annum,3,duplex,Rent,"3bdrm Duplex in Marwa, Lekki Phase 1 for rent",Lekki,13000000,16.380459992348886
+8000000,per annum,4,duplex,Rent,"4bdrm Duplex in Bera Estate, Chevron for rent",Lekki,8000000,15.894952224644102
+25000000,per annum,2,apartment & flat,Rent,"Furnished 2bdrm Apartment in Ikoyi, Lekki for rent",Lekki,25000000,17.034386422832473
+55000000,per annum,5,duplex,Rent,"5bdrm Duplex in Admiralty, Lekki for rent",Lekki,55000000,17.822843761378564
+6000000,per annum,4,duplex,Rent,4bdrm Duplex in Ajah for rent,Ajah,6000000,15.607270193858982
+1700000,per annum,others,apartment & flat,Rent,"Studio Apartment in Royal Pine, Chevron for rent",Lekki,1700000,14.346139397261565
+3000000,per annum,others,apartment & flat,Rent,"Studio Apartment in Dpk Estate, Ikota for rent",Lekki,3000000,14.914123179965662
+1700000,per annum,others,apartment & flat,Rent,"Studio Apartment in Dpk Estate, Lekki for rent",Lekki,1700000,14.346139397261565
+1500000,per annum,3,apartment & flat,Rent,"3bdrm Apartment in Unity Estate, Ado / Ajah for rent",Ajah,1500000,14.220976332738882
+17000000,per annum,3,apartment & flat,Rent,Furnished 3bdrm Apartment in Lekki Phase1 for rent,Lekki,17000000,16.648723960844016
+10000000,per annum,2,apartment & flat,Rent,2bdrm Apartment in Lekki Phase1 for rent,Lekki,10000000,16.118095750958314
+10000000,per annum,3,apartment & flat,Rent,3bdrm Apartment in Chevron Toalgate for rent,Lekki,10000000,16.118095750958314
+8500000,per annum,4,duplex,Rent,"4bdrm Duplex in Chevy View, Chevron for rent",Lekki,8500000,15.955576839107596
+35000000,per annum,3,apartment & flat,Rent,3bdrm Apartment in Victoria Island for rent,Victoria Island,35000000,17.370858648025116
+5000000,per annum,3,apartment & flat,Rent,"3bdrm Apartment in Chevron, Lekki for rent",Lekki,5000000,15.424948670398354
+4000000,per annum,others,apartment & flat,Rent,"Mini Flat in Westend, Ikota for rent",Lekki,4000000,15.201805169084134
+2300000,per annum,others,apartment & flat,Rent,Studio Apartment in Lekki for rent,Lekki,2300000,14.648420115681892
+8000000,per annum,1,apartment & flat,Rent,"Furnished 1bdrm Apartment in Ologolo, Lekki for rent",Lekki,8000000,15.894952224644102
+25000000,per annum,3,apartment & flat,Rent,"3bdrm Apartment in Vi, Victoria Island for rent",Victoria Island,25000000,17.034386422832473
+2800000,per annum,others,apartment & flat,Rent,"Studio Apartment in Orchid Road, Ikota for rent",Lekki,2800000,14.845130332288226
+7000000,per annum,4,duplex,Rent,"4bdrm Duplex in Chevy View, Lekki for rent",Lekki,7000000,15.76142084987672
+3000000,per annum,1,apartment & flat,Rent,"1bdrm Apartment in Chevron, Lekki for rent",Lekki,3000000,14.914123179965662
+7000000,per annum,4,duplex,Rent,"4bdrm Duplex in Orchid, Chevron for rent",Lekki,7000000,15.76142084987672
+6000000,per annum,4,duplex,Rent,"4bdrm Duplex in Orchild Road, Chevron for rent",Lekki,6000000,15.607270193858982
+18000000,per annum,2,apartment & flat,Rent,"2bdrm Apartment in Periwinkle Estate, Lekki Phase 1 for rent",Lekki,18000000,16.705882371415992
+15000000,per annum,5,duplex,Rent,"Furnished 5bdrm Duplex in Osapa London, Lekki for rent",Lekki,15000000,16.52356082573315
+13500000,per annum,2,apartment & flat,Rent,2bdrm Apartment in Lekki Phase1 for rent,Lekki,13500000,16.41820031748273
+10000000,per annum,3,others,Rent,3bdrm Villa in Chevron for rent,Lekki,10000000,16.118095750958314
+7000000,per annum,2,apartment & flat,Rent,2bdrm Apartment in Ikate for rent,Lekki,7000000,15.76142084987672
+2800000,per annum,others,apartment & flat,Rent,"Studio Apartment in Paradise3, Chevron for rent",Lekki,2800000,14.845130332288226
+750000,per annum,1,apartment & flat,Rent,"1bdrm Apartment in Greenville, Badore for rent",Ibeju,750000,13.527829818844937
+10000000,per annum,3,apartment & flat,Rent,"3bdrm Apartment in Chevron Extension, Lekki for rent",Lekki,10000000,16.118095750958314
+2500000,per annum,others,apartment & flat,Rent,"Studio Apartment in Paradise 3, Lekki for rent",Lekki,2500000,14.731801689838349
+12000000,per annum,3,apartment & flat,Rent,3bdrm Apartment in Lekki Phase1 for rent,Lekki,12000000,16.300417291085605
+9000000,per annum,4,duplex,Rent,"Furnished 4bdrm Duplex in Chevron, Lekki for rent",Lekki,9000000,16.012735246411598
+9000000,per annum,4,duplex,Rent,"4bdrm Duplex in Megamound, Lekki for rent",Lekki,9000000,16.012735246411598
+10000000,per annum,3,apartment & flat,Rent,"3bdrm Apartment in Ganzali, Chevron for rent",Lekki,10000000,16.118095750958314
+10000000,per annum,1,apartment & flat,Rent,1bdrm Apartment in Ologolo for rent,Lekki,10000000,16.118095750958314
+4000000,per annum,2,apartment & flat,Rent,2bdrm Apartment in Ikate for rent,Lekki,4000000,15.201805169084134
+120000000,per annum,others,others,Rent,Club Space Comercial House for Rent,Lekki,120000000,18.603002309079653
+11000000,per annum,4,duplex,Rent,"Furnished 4bdrm Duplex in Orchid, Lekki for rent",Lekki,11000000,16.213405921671733
+1500000,per annum,others,apartment & flat,Rent,"Studio Apartment in Lekki Conseevation, Chevron for rent",Lekki,1500000,14.220976332738882
+13000000,per annum,4,duplex,Rent,"4bdrm Duplex in Ikate, Lekki for rent",Lekki,13000000,16.380459992348886
+11000000,per annum,4,duplex,Rent,"4bdrm Duplex in Chevron, Ajah for rent",Ajah,11000000,16.213405921671733
+3500000,per annum,others,apartment & flat,Rent,"Studio Apartment in Oral Estate, Chevron for rent",Lekki,3500000,15.068273812173887
+6000000,per annum,3,apartment & flat,Rent,"3bdrm Apartment in Chevron, Lekki for rent",Lekki,6000000,15.607270193858982
+12000000,per annum,2,apartment & flat,Rent,2bdrm Apartment in Ikate for rent,Lekki,12000000,16.300417291085605
+10000000,per annum,3,apartment & flat,Rent,3bdrm Apartment in Chevron for rent,Lekki,10000000,16.118095750958314
+3700000,per annum,others,apartment & flat,Rent,Studio Apartment in Lekki for rent,Lekki,3700000,15.123843647884687
+1500000,per annum,others,apartment & flat,Rent,"Studio Apartment in Haris Drive, Chevron for rent",Lekki,1500000,14.220976332738882
+6000000,per annum,2,apartment & flat,Rent,2bdrm Apartment in Ikate Lekki for rent,Lekki,6000000,15.607270193858982
+7000000,per annum,2,apartment & flat,Rent,2bdrm Apartment in Ikate Lekki for rent,Lekki,7000000,15.76142084987672
+2500000,per annum,others,apartment & flat,Rent,"Furnished Studio Apartment in Bera, Chevron for rent",Lekki,2500000,14.731801689838349
+8000000,per annum,5,duplex,Rent,"5bdrm Duplex in Chevron, Lekki for rent",Lekki,8000000,15.894952224644102
+1500000,per annum,others,apartment & flat,Rent,"Studio Apartment in Paradise 3, Chevron for rent",Lekki,1500000,14.220976332738882
+3000000,per annum,others,apartment & flat,Rent,Studio Apartment in Lekki Osapa London for rent,Lekki,3000000,14.914123179965662
+1300000,per annum,1,apartment & flat,Rent,"1bdrm Apartment in Unity Estate, Ajah for rent",Ajah,1300000,14.077875591662238
+7000000,per annum,3,apartment & flat,Rent,"3bdrm Apartment in Chevy View, Chevron for rent",Lekki,7000000,15.76142084987672
+8000000,per annum,5,duplex,Rent,5bdrm Duplex in Osapa London for rent,Lekki,8000000,15.894952224644102
+7500000,per annum,2,apartment & flat,Rent,2bdrm Apartment in Ikate Lekki for rent,Lekki,7500000,15.830413711839864
+15000000,per annum,2,apartment & flat,Rent,"Furnished 2bdrm Apartment in Salem, Ikate for rent",Lekki,15000000,16.52356082573315
+5000000,per annum,2,apartment & flat,Rent,"2bdrm Apartment in Orchid, Lekki for rent",Lekki,5000000,15.424948670398354
+1600000,per annum,others,apartment & flat,Rent,"Studio Apartment in Westend, Ikota for rent",Lekki,1600000,14.285514812209815
+14000000,per annum,2,apartment & flat,Rent,2bdrm Apartment in Lekki Phase 1 for rent,Lekki,14000000,16.454567959008102
+8500000,per annum,others,others,Rent,Commercial Property for Rent,Ajah,8500000,15.955576839107596
+2200000,per annum,3,apartment & flat,Rent,3bdrm Apartment in Surulere for rent,Surulere,2200000,14.603968372873895
+17000000,per annum,5,duplex,Rent,5bdrm Duplex in Chevron Lekki for rent,Lekki,17000000,16.648723960844016
+30000000,per annum,2,apartment & flat,Rent,2bdrm Apartment in Osapa london for rent,Lekki,30000000,17.216707972959764
+8000000,lifetime,others,apartment & flat,Sale,"Studio Apartment in Bajuliaye, Shomolu / Shomolu for sale",Shomolu,8000000,15.894952224644102
+15000000,lifetime,others,apartment & flat,Sale,"Mini Flat in Ikeja, Unity Road for sale",Ikeja,15000000,16.52356082573315
+3000000,per annum,3,townhouse,Rent,"3bdrm Townhouse / Terrace in Bale, Ikorodu for rent",Ikorodu,3000000,14.914123179965662
+7000000,per annum,3,apartment & flat,Rent,"3bdrm Apartment in Off Hakeem Dickson, Lekki Phase 1 for rent",Lekki,7000000,15.76142084987672
+30000000,per annum,4,townhouse,Rent,4bdrm Townhouse / Terrace in Old Ikoyi Estate for rent,Ikoyi,30000000,17.216707972959764
+1500000,per annum,1,apartment & flat,Rent,"1bdrm Shared Apartment in Ikota, Lekki for rent",Lekki,1500000,14.220976332738882
+10000000,per annum,4,duplex,Rent,4bdrm Duplex in New Vgc Lekki for rent,Ajah,10000000,16.118095750958314
+8000000,per annum,5,duplex,Rent,5bdrm Duplex in Lekki Palm City Ajah for rent,Ajah,8000000,15.894952224644102
+18000000,per annum,5,duplex,Rent,5bdrm Duplex in Ikate for rent,Lekki,18000000,16.705882371415992
+200000,per month,1,apartment & flat,Rent,1bdrm Shared Apartment in Allen Avenue for rent,Ikeja,2400000,14.690979711984754
+1250000,per annum,others,apartment & flat,Rent,Mini Flat in Surulere for rent,Surulere,1250000,14.038654909278163
+40000000,per annum,4,duplex,Rent,"4bdrm Duplex in Parkview Axis, Ikoyi for rent",Ikoyi,40000000,17.50439003707821
+25000000,per annum,3,apartment & flat,Rent,3bdrm Block of Flats in Ikoyi for rent,Ikoyi,25000000,17.034386422832473
+800000,per annum,others,apartment & flat,Rent,Mini Flat in Itire for rent,Surulere,800000,13.592368256649284
+1650000,per annum,2,apartment & flat,Rent,2bdrm Apartment in Ago Palace for rent,Isolo,1650000,14.316286451937186
+7000000,per annum,4,duplex,Rent,"4bdrm Duplex in Orchid Road, Chevron for rent",Lekki,7000000,15.76142084987672
+4000000,per annum,3,apartment & flat,Rent,"3bdrm Apartment in Abraham Adesanya, Lekki Phase 2 for rent",Lekki,4000000,15.201805169084134
+18000000,lifetime,others,apartment & flat,Sale,"Mini Flat in Surulere, Ojuelegba for sale",Surulere,18000000,16.705882371415992
+60000000,per annum,5,duplex,Rent,5bdrm Duplex in Lekki Phase 1 for rent,Lekki,60000000,17.909855136853043
+22000000,per annum,4,others,Rent,4bdrm House in Lekki Phase 1 for rent,Lekki,22000000,16.906553056777135
+10000000,per annum,2,apartment & flat,Rent,Furnished 2bdrm Apartment in Ikate-Lekki Lagos for rent,Lekki,10000000,16.118095750958314
+30000000,per annum,3,apartment & flat,Rent,3bdrm Apartment in Osapa london for rent,Lekki,30000000,17.216707972959764
+550000,per annum,others,apartment & flat,Rent,Studio Apartment in Ago Palace for rent,Isolo,550000,13.217675375388819
+60000000,per annum,4,duplex,Rent,"4bdrm Duplex in Banana Island, Ikoyi for rent",Ikoyi,60000000,17.909855136853043
+30000000,per annum,3,apartment & flat,Rent,"Furnished 3bdrm Apartment in Parkview, Ikoyi for rent",Ikoyi,30000000,17.216707972959764
+980000,per annum,1,others,Rent,1bdrm Room & Parlour in Surulere for rent,Surulere,980000,13.795308871054397
+30000000,per annum,4,duplex,Rent,"4bdrm Duplex in Banana Island, Ikoyi for rent",Ikoyi,30000000,17.216707972959764
+40000000,per annum,3,apartment & flat,Rent,"3bdrm Apartment in Banana Island, Ikoyi for rent",Ikoyi,40000000,17.50439003707821
+2000000,per annum,2,apartment & flat,Rent,"2bdrm Apartment in Abram Adesanya Sch 2, Lekki for rent",Lekki,2000000,14.508658238524095
+25000000,per annum,5,duplex,Rent,"5bdrm Duplex in Fhase1, Lekki Phase 1 for rent",Lekki,25000000,17.034386422832473
+20000000,per annum,5,duplex,Rent,5bdrm Duplex in Lekki Fhase1 for rent,Lekki,20000000,16.811242881518265
+680000000,lifetime,3,apartment & flat,Sale,3bdrm Apartment in Ikoyi Estate for sale,Ikoyi,680000000,20.337603357605015
+20000000,per annum,3,apartment & flat,Rent,3bdrm Apartment in Ikoyi Estate for rent,Ikoyi,20000000,16.811242881518265
+20000000,per annum,5,duplex,Rent,"5bdrm Duplex in Durosinmi Etti, Lekki Phase 1 for rent",Lekki,20000000,16.811242881518265
+40000000,lifetime,others,apartment & flat,Sale,Mini Flat in Folagoro Yaba for sale,Yaba,40000000,17.50439003707821
+260000000,per annum,3,apartment & flat,Rent,3bdrm Block of Flats in Ikoyi for rent,Ikoyi,260000000,19.376192192825954
+20000000,per annum,3,apartment & flat,Rent,3bdrm Apartment in Victoria Island for rent,Victoria Island,20000000,16.811242881518265
+39000000,per annum,others,others,Rent,Clean 520sqm Office Block in Ikeja for Rent,Ikeja,39000000,17.479072229734946
+20000000,per annum,3,apartment & flat,Rent,3bdrm Apartment in Ikoyi Ikoyi for rent,Ikoyi,20000000,16.811242881518265
+2500000,per annum,1,apartment & flat,Rent,"1bdrm Shared Apartment in Ikota Villa, Lekki for rent",Lekki,2500000,14.731801689838349
+60000000,per annum,17,Penthouse,Rent,"Furnished 17bdrm Penthouse in Chief Kolish, Lekki Phase 1 for rent",Lekki,60000000,17.909855136853043
+25000000,per annum,3,duplex,Rent,Furnished 3bdrm Duplex in Ikeja GRA for rent,Ikeja,25000000,17.034386422832473
+14000000,per annum,3,apartment & flat,Rent,"3bdrm Apartment in Oniru, Victoria Island for rent",Victoria Island,14000000,16.454567959008102
+20000000,per annum,4,duplex,Rent,"4bdrm Duplex in Oniru Estate, Victoria Island for rent",Victoria Island,20000000,16.811242881518265
+3500000,per annum,2,apartment & flat,Rent,2bdrm Apartment in Sangotedo for rent,Ajah,3500000,15.068273812173887
+20000000,per annum,3,apartment & flat,Rent,"3bdrm Apartment in Oniru, Victoria Island for rent",Victoria Island,20000000,16.811242881518265
+8500000,per annum,4,apartment & flat,Rent,"Furnished 4bdrm Apartment in Orchid Ikota Chevron, Lekki for rent",Lekki,8500000,15.955576839107596
+30000000,per annum,4,duplex,Rent,"4bdrm Duplex in V.I, Victoria Island for rent",Victoria Island,30000000,17.216707972959764
+750000000,per annum,5,duplex,Rent,5bdrm Duplex in Lekki Fhase1 for rent,Lekki,750000000,20.435583765827964
+65000000,per annum,4,Penthouse,Rent,"4bdrm Penthouse in Banana, Ikoyi for rent",Ikoyi,65000000,17.989897843244528
+200000000,per annum,6,duplex,Rent,"6bdrm Duplex in Banana Island, Ikoyi for rent",Ikoyi,200000000,19.11382792951231
+3000000,per annum,3,apartment & flat,Rent,"3bdrm Apartment in Behind Blenco, Sangotedo for rent",Ajah,3000000,14.914123179965662
+15000000,per annum,2,apartment & flat,Rent,Furnished 2bdrm Apartment in Lekki F1 for rent,Lekki,15000000,16.52356082573315
+8500000,per annum,4,duplex,Rent,Furnished 4bdrm Duplex in Orchid Ikota Lekki for rent,Lekki,8500000,15.955576839107596
+25000000,per annum,4,apartment & flat,Rent,4bdrm Apartment in Victoria Island for rent,Victoria Island,25000000,17.034386422832473
+7500000,per annum,4,duplex,Rent,"4bdrm Duplex in Ora Estate, Ikota for rent",Lekki,7500000,15.830413711839864
+500000000,lifetime,4,duplex,Sale,"4bdrm Duplex in Vi, Victoria Island for sale",Victoria Island,500000000,20.030118658386467
+15000000,per annum,3,apartment & flat,Rent,"3bdrm Apartment in Palace Road, Victoria Island Extension for rent",Victoria Island,15000000,16.52356082573315
+15000000,per annum,1,apartment & flat,Rent,"1bdrm Apartment in New Estate, Ikoyi for rent",Ikoyi,15000000,16.52356082573315
+8000000,per annum,4,duplex,Rent,4bdrm Duplex in Chevron for rent,Lekki,8000000,15.894952224644102
+35000000,per annum,4,Penthouse,Rent,"4bdrm Penthouse in Off Bourdillon, Ikoyi for rent",Ikoyi,35000000,17.370858648025116
+13000000,per annum,6,duplex,Rent,"6bdrm Duplex in Chevy View, Lekki for rent",Lekki,13000000,16.380459992348886
+12000000,per annum,others,apartment & flat,Rent,"Mini Flat in Oniru Area, Victoria Island for rent",Victoria Island,12000000,16.300417291085605
+50000000,per annum,3,duplex,Rent,"3bdrm Duplex in Banana Island, Ikoyi for rent",Ikoyi,50000000,17.72753358339242
+15000000,per annum,3,apartment & flat,Rent,"3bdrm Apartment in Durosinmi Etti, Lekki Phase 1 for rent",Lekki,15000000,16.52356082573315
+75000000,per annum,4,maisonette,Rent,"4bdrm Maisonette in Banana Island Road, Ikoyi for rent",Ikoyi,75000000,18.132998684833918
+25000000,per annum,3,apartment & flat,Rent,"Furnished 3bdrm Apartment in Oniru, Victoria Island Extension for rent",Victoria Island,25000000,17.034386422832473
+15000000,per annum,5,duplex,Rent,"5bdrm Duplex in Osapa London, Lekki for rent",Lekki,15000000,16.52356082573315
+20000000,per annum,3,apartment & flat,Rent,3bdrm Apartment in Victoria Estate for rent,Victoria Island,20000000,16.811242881518265
+25000000,per annum,4,duplex,Rent,4bdrm Duplex in Victoria for rent,Victoria Island,25000000,17.034386422832473
+2600000,per annum,others,apartment & flat,Rent,Studio Apartment in Catingate Estate for rent,Lekki,2600000,14.77102238760702
+10000000,per annum,2,apartment & flat,Rent,2bdrm Apartment in Lekki Fhase1 for rent,Lekki,10000000,16.118095750958314
+30000000,per annum,5,duplex,Rent,"5bdrm Duplex in Abike Cinema, Lekki Phase 1 for rent",Lekki,30000000,17.216707972959764
+12000000,per annum,1,apartment & flat,Rent,1bdrm Apartment in Onikoyi for rent,Ikoyi,12000000,16.300417291085605
+250000000,per annum,2,apartment & flat,Rent,2bdrm Apartment in Lekki Fhase1 for rent,Lekki,250000000,19.33697147982652
+15000000,per annum,2,apartment & flat,Rent,"2bdrm Apartment in Admiralty Road, Lekki for rent",Lekki,15000000,16.52356082573315
+25000000,per annum,3,duplex,Rent,"3bdrm Duplex in Parkview, Ikoyi for rent",Ikoyi,25000000,17.034386422832473
+7000000,per annum,2,apartment & flat,Rent,"2bdrm Apartment in Ilasan Street, Lekki for rent",Lekki,7000000,15.76142084987672
+50000000,per annum,5,maisonette,Rent,"5bdrm Maisonette in Banana Island, Ikoyi for rent",Ikoyi,50000000,17.72753358339242
+750000000,per annum,6,duplex,Rent,6bdrm Duplex in Victoria Island for rent,Victoria Island,750000000,20.435583765827964
+12000000,per annum,2,apartment & flat,Rent,"Furnished 2bdrm Apartment in Ikate, Lekki for rent",Lekki,12000000,16.300417291085605
+30000000,per annum,18,apartment & flat,Rent,"18bdrm Apartment in Osapa Londo, Lekki Phase 2 for rent",Lekki,30000000,17.216707972959764
+25000000,per annum,5,duplex,Rent,"5bdrm Duplex in Admiralty, Lekki Phase 1 for rent",Lekki,25000000,17.034386422832473
+13000000,per annum,3,duplex,Rent,"3bdrm Duplex in Admiralty, Lekki Phase 1 for rent",Lekki,13000000,16.380459992348886
+15000000,per annum,2,apartment & flat,Rent,"2bdrm Apartment in Off Gerard Road, Ikoyi for rent",Ikoyi,15000000,16.52356082573315
+25000000,per annum,4,duplex,Rent,"4bdrm Duplex in Oniru Estate, Victoria Island Extension for rent",Victoria Island,25000000,17.034386422832473
+30000000,per annum,17,apartment & flat,Rent,"17bdrm Apartment in Osapa London, Lekki Phase 2 for rent",Lekki,30000000,17.216707972959764
+30000000,per annum,19,apartment & flat,Rent,"19bdrm Apartment in Osapa London, Lekki Phase 2 for rent",Lekki,30000000,17.216707972959764
+2700000,per annum,2,apartment & flat,Rent,"2bdrm Apartment in Oakland Estate, Sangotedo for rent",Ajah,2700000,14.80876270134486
+27000000,per annum,3,apartment & flat,Rent,3bdrm Apartment in Onikoyi for rent,Ikoyi,27000000,17.11134746100564
+170000000,per annum,5,others,Rent,"5bdrm Mansion in Banana Island, Ikoyi for rent",Ikoyi,170000000,18.951309000896888
+10000000,per annum,4,duplex,Rent,4bdrm Duplex in Lekki Fhase1 for rent,Lekki,10000000,16.118095750958314
+8000000,per annum,1,apartment & flat,Rent,Furnished 1bdrm Apartment in Lekki F1 for rent,Lekki,8000000,15.894952224644102
+25000000,per annum,3,townhouse,Rent,Furnished 3bdrm Townhouse / Terrace in Ikeja Gra for rent,Ikeja,25000000,17.034386422832473
+1700000,per annum,others,apartment & flat,Rent,"Studio Apartment in Caltongate, Lekki for rent",Lekki,1700000,14.346139397261565
+7500000,per annum,4,duplex,Rent,"4bdrm Duplex in Osapa London, Lekki for rent",Lekki,7500000,15.830413711839864
+2600000,per annum,others,apartment & flat,Rent,"Studio Apartment in Caltongate, Lekki for rent",Lekki,2600000,14.77102238760702
+7000000,per annum,4,duplex,Rent,"4bdrm Duplex in Terra Annex, Sangotedo for rent",Ajah,7000000,15.76142084987672
+10000000,per annum,3,apartment & flat,Rent,3bdrm Block of Flats in Ikeja for rent,Ikeja,10000000,16.118095750958314
+7000000,per annum,4,duplex,Rent,"4bdrm Duplex in Aple Home, Lekki for rent",Lekki,7000000,15.76142084987672
+50000000,per annum,3,apartment & flat,Rent,"Furnished 3bdrm Apartment in Gerard, Ikoyi for rent",Ikoyi,50000000,17.72753358339242
+40000000,per annum,4,duplex,Rent,4bdrm Duplex in Onikoyi for rent,Ikoyi,40000000,17.50439003707821
+12000000,per annum,3,apartment & flat,Rent,3bdrm Block of Flats in Ikeja for rent,Ikeja,12000000,16.300417291085605
+3500000,per annum,5,duplex,Rent,"5bdrm Duplex in Unity, Ajah for rent",Ajah,3500000,15.068273812173887
+1600000,per annum,1,apartment & flat,Rent,"1bdrm Shared Apartment in Agungi, Lekki for rent",Lekki,1600000,14.285514812209815
+450000000,per annum,2,apartment & flat,Rent,"2bdrm Apartment in Eko Atlantic, Victoria Island for rent",Victoria Island,450000000,19.92475814295086
+12000000,per annum,3,apartment & flat,Rent,3bdrm Apartment in Lekki for rent,Lekki,12000000,16.300417291085605
+15000000,per annum,3,apartment & flat,Rent,"3bdrm Apartment in Oniru Estate, Victoria Island Extension for rent",Victoria Island,15000000,16.52356082573315
+90267650,per annum,3,apartment & flat,Rent,3bdrm Block of Flats in Banana Island for rent,Ikoyi,90267650,18.318289715001566
+17000000,per annum,4,duplex,Rent,"4bdrm Duplex in Oniru, Lekki for rent",Lekki,17000000,16.648723960844016
+60000000,per annum,3,apartment & flat,Rent,"Furnished 3bdrm Apartment in Banana Island, Ikoyi for rent",Ikoyi,60000000,17.909855136853043
+25000000,per annum,3,apartment & flat,Rent,"Furnished 3bdrm Apartment in Oniru Estate, Victoria Island for rent",Victoria Island,25000000,17.034386422832473
+15000000,per annum,2,apartment & flat,Rent,2bdrm Apartment in Lekki Fhase1 for rent,Lekki,15000000,16.52356082573315
+16000000,per annum,3,apartment & flat,Rent,"Furnished 3bdrm Apartment in Ikate, Lekki for rent",Lekki,16000000,16.588099342704055
+3500000,per annum,3,apartment & flat,Rent,3bdrm Apartment in Oakland Sangotedo for rent,Ajah,3500000,15.068273812173887
+70000000,per annum,5,duplex,Rent,"5bdrm Duplex in Banana Island, Ikoyi for rent",Ikoyi,70000000,18.064005814299346
+25000000,per annum,3,apartment & flat,Rent,3bdrm Apartment in Victoria Estate for rent,Victoria Island,25000000,17.034386422832473
+1000000000,lifetime,3,apartment & flat,Sale,3bdrm Apartment in Ikoyi City for sale,Ikoyi,1000000000,20.72326583794641
+18000000,per annum,5,duplex,Rent,"5bdrm Duplex in Chevron Estate, Lekki for rent",Lekki,18000000,16.705882371415992
+12000000,per annum,2,apartment & flat,Rent,"2bdrm Apartment in Fola Osibo, Lekki for rent",Lekki,12000000,16.300417291085605
+7000000,per annum,4,townhouse,Rent,"4bdrm Townhouse / Terrace in Ikota Villa Estate, Lekki for rent",Lekki,7000000,15.76142084987672
+17000000,per annum,2,apartment & flat,Rent,"Furnished 2bdrm Apartment in Admiralty Way, Lekki Phase 1 for rent",Lekki,17000000,16.648723960844016
+20000000,per annum,3,apartment & flat,Rent,"Furnished 3bdrm Apartment in Vi Homes, Oniru, Victoria Island for rent",Victoria Island,20000000,16.811242881518265
+14000000,per annum,3,apartment & flat,Rent,3bdrm Apartment in Lekki Fhase1 for rent,Lekki,14000000,16.454567959008102
+150000,per month,others,apartment & flat,Rent,"Studio Apartment in Southern View Estate, Chevron for rent",Lekki,1800000,14.403297778421795
+8000000,per annum,2,apartment & flat,Rent,2bdrm Apartment in Freedom Way Lekki for rent,Lekki,8000000,15.894952224644102
+3000000,per annum,3,apartment & flat,Rent,"3bdrm Apartment in Terra Peace Zone, Sangotedo for rent",Ajah,3000000,14.914123179965662
+330000,per quarter,1,others,Rent,1bdrm Room & Parlour in Surulere for rent,Surulere,1320000,14.093143052138025
+500000,per month,1,apartment & flat,Rent,Furnished 1bdrm Block of Flats for rent,Victoria Island,6000000,15.607270193858982
+420000,per annum,others,apartment & flat,Rent,Studio Apartment in Surulere for rent,Surulere,420000,12.948012371209098
+9000000,per annum,3,apartment & flat,Rent,"3bdrm Apartment in Oniru Estate, Victoria Island for rent",Victoria Island,9000000,16.012735246411598
+7000000,per annum,4,duplex,Rent,4bdrm Duplex in Terra Annex for rent,Ajah,7000000,15.76142084987672
