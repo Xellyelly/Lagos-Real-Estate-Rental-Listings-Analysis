@@ -48,7 +48,7 @@ slim tail extends beyond log ≈ 19–21 (₦65M+)These luxury outliers widen yo
 ![image](https://github.com/user-attachments/assets/241f914c-03a5-4a7a-9ddf-63de89d2eaf4)
 
 - Ikoyi and Victoria Island have the highest rent ranges, ideal for premium budgets, median is higher indicating more luxury properties.
-- Ajah, Ikeja, and Magodo have moderate median rents with less spread, indicating more consistent pricing.
+- Ajah, Ikeja, and Lekki have moderate median rents with less spread, indicating more consistent pricing.
 - Areas like Ojodu, Ibeju, Surulere, and Isolo are better suited  moderate budgets, with tighter boxes, suggesting fewer premium properties.
 - Outliers in many locations confirm the earlier observation of positive skewness, caused by luxury listings.
 **This chart can helps in identifying  where to rent in Lagos based on budget**
