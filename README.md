@@ -23,7 +23,7 @@ Data was scrapped from
 - Location : Specifies where the property is located
   
 **Few more feature were extracted from Description columns for the pupose of this analysis
-  Used keyword search and pattern matching**
+  used keyword search and pattern matching**
 - Bedrooms : Number of bedrooms in each property
 - purpose : Refers to why the property is listed (For Rent or For Sale)
 - type : Describes the kind of property, such as Apartment, Duplex, or Others.
