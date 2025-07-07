@@ -82,7 +82,7 @@ is different in mean yearly price
 ![image](https://github.com/user-attachments/assets/e32c2a58-f08e-4259-96a6-7fba091d923f)
 - The median is different accross each box plot
 -  Victoria island distibution is clearly different from lekki and ikoyi,it has vrey tight range indicating fewer number of listing
- but highly priced and outlier indicating luxuries houses compare to other top locations
+ but highly priced with few moderate rent also outlier above the max-range indicating luxuries houses compare to other top locations
 
 **Does bedroom number Affect Yearly Rent Price, if yes by what % rent increase per bedroom**
 ### Build OLS model:
