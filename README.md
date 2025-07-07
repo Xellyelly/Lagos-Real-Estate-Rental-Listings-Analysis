@@ -92,7 +92,9 @@ is different in mean yearly price
 ![image](https://github.com/user-attachments/assets/72d2d72a-33d5-4b2e-9f4f-d14c39c0d2c4)
 ## Observation
 - The analysis shows that both location and number of bedrooms significantly affect the yearly rent prices.
-- Each additional bedroom increases the yearly rent price by by ~52% (exp(0.417) ≈ 1.52) approximately (1.3m)
+-  The log rent for houses in Lekk is 1.61 units lower,significantly cheaper than those in Ikoyi, Lekki rents are about 80% lower than Ikoyi
+-  Victoria Island Log rent is 0.52 units lower, around 40% lower than Ikoyi, holding other variables constant but not as much as Lekki.
+- The yearly rent price For each additional bedroom, log rent price increases by 0.178 for each extra bedroom. Increases rent by about 19.5%, approximately (1.3m)
 - The model (location + bedrooms) explains 53.4% of the total variation in log-prices and Residual variation (46.6% ) are unexplained
   - **Heatmap of Yearlyrent across differeent location and number of bedroom**
   ![image](https://github.com/user-attachments/assets/9b279089-9f59-4f80-a315-59a416708988)
