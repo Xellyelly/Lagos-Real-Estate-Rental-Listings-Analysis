@@ -22,7 +22,7 @@ Data was scrapped from
 - Description : text field containing extra details about the property
 - Location : Specifies where the property is located
   
-**Few more feature were extracted from Description columns for the pupose of this ananlyis
+**Few more feature were extracted from Description columns for the pupose of this analysis
   Used keyword search and pattern matching**
 - Bedrooms : Number of bedrooms in each property
 - purpose : Refers to why the property is listed (For Rent or For Sale)
