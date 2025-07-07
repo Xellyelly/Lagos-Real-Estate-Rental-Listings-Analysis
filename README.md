@@ -68,7 +68,7 @@ Kruskal-Wallis model
 
 ![image](https://github.com/user-attachments/assets/27dfaec9-456b-46cf-bfe5-b3835d8cc2ee)
 
-To ensure fairness, We'll use the smallest listing count among the three as the subset size
+To ensure fairness, We'll use the smallest listing count among the top three as the subset size
 Sampling equally from each location ,Combine and shuffle the data
 This balanced dataset will be used to train the model and avoid bias from uneven group sizes.
 ![image](https://github.com/user-attachments/assets/2008133d-02cb-4503-97bb-8b37c21b6b7f)
