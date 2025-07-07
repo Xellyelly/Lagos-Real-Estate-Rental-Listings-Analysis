@@ -46,14 +46,18 @@ Most values sit between 14 and 18 on the log scale. That converts to roughly
 slim tail extends beyond log ≈ 19–21 (₦65M+)These luxury outliers widen your confidence interval
 - **Boxplot Insight: Log of Yearly Rent by Location** 
 ![image](https://github.com/user-attachments/assets/241f914c-03a5-4a7a-9ddf-63de89d2eaf4)
-
+**This chart can helps in identifying  where to rent in Lagos based on budget**
 - Ikoyi and Victoria Island have the highest rent ranges, ideal for premium budgets, median is higher indicating more luxury properties.
 - Ajah, Ikeja, and Lekki have moderate median rents with less spread, indicating more consistent pricing.
 - Areas like Ojodu, Ibeju, Surulere, and Isolo are better suited  moderate budgets, with tighter boxes, suggesting fewer premium properties.
 - Outliers in many locations confirm the earlier observation of positive skewness, caused by luxury listings.
-**This chart can helps in identifying  where to rent in Lagos based on budget**
 
-## Statistical Testing
+  
+![Screenshot 2025-07-07 134832](https://github.com/user-attachments/assets/b2b97cfc-70c4-4eb0-9aa3-83e3a61394d9)
+- Apartments/flats are more common for lower bedroom counts 2-3, while duplexes dominate at 4-5 bedrooms.
+- The large error bars on the price chart, especially for duplexes suggest that other factors besides the number of bedrooms and house type likely play a significant role in determining the final price
+
+# Statistical Testing
 **Hypotheses: Does Location Affect Yearly Rent Price?**
 ```
 -- Null hypothesis ( H_0 ):
@@ -100,6 +104,12 @@ is different in mean yearly price
   ![image](https://github.com/user-attachments/assets/9b279089-9f59-4f80-a315-59a416708988)
   
 **Hypotheses: check if Duplex Price is Greater Than Apartment for listed house for rent**
+
+![image](https://github.com/user-attachments/assets/fcaf4dbe-e94a-4423-b19a-3f1a837c58fd)
+- Penthouses and maisonettes command the highest rents with low variation ,luxury and consistent pricing.
+- Apartments/flats are the most variable and have many outliers,from low-end to mid-range
+- Duplex has Slightly higher median than townhouse and wide rent variation and a few high outliers
+
 ~~~
 -- Null hypothesis ( H_0 ):
 $H_0: \mu_duplex \leq \mu_apartment$
@@ -114,17 +124,19 @@ Duplex mean yearly price is greater than apartment mean yearly price.
 ![image](https://github.com/user-attachments/assets/fbdca685-1f58-4846-8a62-bc09189a3984)
  ### Observation
 - Since P value 0.029026773881587146 is less than alpha 0.05 
-- Reject Null Hypothesis that Duplex mean yearly price is less than or equal to apartment mean yearly price i.e
- Duplex mean yearly price is greater than apartment mean yearly price.
+- Reject Null Hypothesis that Duplex mean yearly price is less than or equal to apartment mean yearly price
+- Duplexes have significantly higher yearly rents than apartments,even when the number of bedrooms is equal, duplexes still attract higher prices likely due to larger space, private entrances, better amenities.
 ![image](https://github.com/user-attachments/assets/a2c4ab98-401d-4f9b-9727-41f4051d01c1)
 
 # Conclusion 
 - This analysis shows that location and number of bedrooms significantly influence rental prices in Lagos. Properties in areas like Ikoyi and Victoria Island tend to command higher rents compared to other locations.
-- Each additional bedroom leads to a substantial increase in rent—on average by about 50%.
-- Among house types, duplexes are generally more expensive than apartments, likely due to having more rooms and larger spaces. However, the number of bedrooms often explains more of the price difference than the house type itself.
-- Statistical tests (ANOVA, regression, and Kruskal-Wallis) confirm that:
-- Rent prices vary significantly by location and edroom count has a strong, positive effect on rent
-The final regression model explains over 50% of the variation in rental prices
+- Apartments/flats are more common for lower bedroom counts 2-3, while duplexes dominate at 4-5 bedrooms.
+- Each additional bedroom leads to a substantial increase in rent—on average by about 19.5%.
+-  Among house types, duplexes are generally more expensive than apartments, likely due to having more rooms and larger spaces.
+-  Penthouses and maisonettes are considered luxury housing types 
+- Statistical tests (ANOVA, regression, and Kruskal-Wallis) confirm that the number of bedrooms often explains more of the price difference than the house type itself.
+- Rent prices vary significantly by location and bedroom count has a strong positive effect on rent.
+- The final regression model explains over 50% of the variation in rental prices.
 This data-driven insight can help renters, landlords, and investors make smarter decisions in the Lagos housing market.
 
 
