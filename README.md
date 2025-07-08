@@ -51,6 +51,7 @@ slim tail extends beyond log ≈ 19–21 (₦65M+)These luxury outliers widen yo
 - Ajah, Ikeja, and Lekki have moderate median rents with less spread, indicating more consistent pricing.
 - Areas like Ojodu, Ibeju, Surulere, and Isolo are better suited  moderate budgets, with tighter boxes, suggesting fewer premium properties.
 - Outliers in many locations confirm the earlier observation of positive skewness, caused by luxury listings.
+- [To view power bi dashboard page 1 click here](https://ibb.co/5WGhMq2L)
 
   
 ![Screenshot 2025-07-07 134832](https://github.com/user-attachments/assets/b2b97cfc-70c4-4eb0-9aa3-83e3a61394d9)
