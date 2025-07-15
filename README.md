@@ -132,7 +132,7 @@ Duplex mean yearly price is greater than apartment mean yearly price.
 # Conclusion 
 - This analysis shows that location and number of bedrooms significantly influence rental prices in Lagos. Properties in areas like Ikoyi and Victoria Island tend to command higher rents compared to other locations.
 - Apartments/flats are more common for lower bedroom counts 2-3, while duplexes dominate at 4-5 bedrooms.
-- Each additional bedroom leads to a substantial increase in rent—on average by about 19.5%.
+- Each additional bedroom leads to a substantial increase in rent on average by about 19.5% approximately (1.3m).
 -  Among house types, duplexes are generally more expensive than apartments, likely due to having more rooms and larger spaces.
 -  Penthouses and maisonettes are considered luxury housing types 
 - Statistical tests (ANOVA, regression, and Kruskal-Wallis) confirm that the number of bedrooms often explains more of the price difference than the house type itself.
