@@ -1,5 +1,5 @@
 # Real-Estate-Listings-for-Rent-Analysis-in-Lagos-ANOVA-Regression-Insights( Web-Scraping)
-![download](https://github.com/user-attachments/assets/eb716673-457a-4589-ade7-bf4290bdcf16)
+<img width="1325" height="727" alt="Screenshot 2025-07-21 164151" src="https://github.com/user-attachments/assets/7a0a020b-287e-468c-b404-8fbacf17d921" />
 
 ## Project Description
 Finding the perfect rental home in Lagos can be overwhelming. With so many neighborhoods to choose from and varying prices that seem hard to explain, many renters struggle to understand what really drives rental costs.
@@ -51,7 +51,7 @@ slim tail extends beyond log ≈ 19–21 (₦65M+)These luxury outliers widen yo
 - Ajah, Ikeja, and Lekki have moderate median rents with less spread, indicating more consistent pricing.
 - Areas like Ojodu, Ibeju, Surulere, and Isolo are better suited  moderate budgets, with tighter boxes, suggesting fewer premium properties.
 - Outliers in many locations confirm the earlier observation of positive skewness, caused by luxury listings.
-- [To view power bi dashboard page 1 click here](https://ibb.co/5WGhMq2L)
+
 
   
 ![Screenshot 2025-07-07 134832](https://github.com/user-attachments/assets/b2b97cfc-70c4-4eb0-9aa3-83e3a61394d9)
